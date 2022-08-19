@@ -47,10 +47,8 @@ main {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.145);
 }
 #redes-sociais img {
-    transition: transform .4s;
+    transition: transform .3s;
 }
 #redes-sociais img:hover {
-    transform: scale(1.1);
-    transform: translate(-2px, -2px);
+    transform: scale(1.2);
 }
-
